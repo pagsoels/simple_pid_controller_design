@@ -1,0 +1,16 @@
+#special ignores (e.g. folders)
+*temp*
+
+#ignore editor backup files
+*~
+
+#ignore word, powerpoint and excel temp files
+*~$*.doc
+*~$*.docx
+*~$*.ppt
+*~$*.pptx
+*~$*.xls
+*~$*.xlsx
+
+#ignore mac specific files
+.DS_Store
